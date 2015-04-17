@@ -81,7 +81,6 @@ def sunPosition( lat = 46.5, long = 6.5 )
 	return [ el_rad, az_rad ]
 end
 
-# 47.15155, 9.51240
 LAT = 45
 LON = 8
 
